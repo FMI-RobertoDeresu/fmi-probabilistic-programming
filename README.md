@@ -2,3 +2,5 @@
 Programare probabilista folosind pymc.
 
 ### Proiect 1 - Implementare Latent Dirichlet allocation (LDA)
+
+### Proiect 2 - Implementare retele Bayesiene 
